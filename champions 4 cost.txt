@@ -1,0 +1,12 @@
+Aphelios; 4; 12
+Azir; 4; 12
+Gwen; 4; 12
+Jarvan4; 4; 12
+Kaisa; 4; 12
+Lux; 4; 12
+Nasus; 4; 12
+Sejuani; 4; 12
+Shen; 4; 12
+Urgot; 4; 12
+Yasuo; 4; 12
+Zeri; 4; 12

@@ -1,0 +1,8 @@
+Aatrox; 5; 10
+Ahri; 5; 10
+Belveth; 5; 10
+Heimerdinger; 5; 10
+Ksante; 5; 10
+Ryze; 5; 10
+Senna; 5; 10
+Sion; 5; 10

@@ -1,0 +1,13 @@
+Akshan; 3; 18
+Darius; 3; 18
+Ekko; 3; 18
+Garen; 3; 18
+Jayce; 3; 18
+Kalista; 3; 18
+Karma; 3; 18
+Katarina; 3; 18
+Lissandra; 3; 18
+Reksai; 3; 18
+Sona; 3; 18
+Taric; 3; 18
+Velkoz; 3; 18

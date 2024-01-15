@@ -1,0 +1,13 @@
+Cassiopeia; 1; 29
+Chogath; 1; 29
+Irelia; 1; 29
+Jhin; 1; 29
+Kayle; 1; 29
+Malzahar; 1; 29
+Maokai; 1; 29
+Orianna; 1; 29
+Poppy; 1; 29
+Renekton; 1; 29
+Samira; 1; 29
+Tristana; 1; 29
+Viego; 1; 29

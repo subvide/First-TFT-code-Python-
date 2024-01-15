@@ -1,0 +1,13 @@
+Ashe; 2; 22
+Galio; 2; 22
+Jinx; 2; 22
+Kassadin; 2; 22
+Kled; 2; 22
+Sett; 2; 22
+Soraka; 2; 22
+Swain; 2; 22
+Taliyah; 2; 22
+Teemo; 2; 22
+Vi; 2; 22
+Warwick; 2; 22
+Zed; 2; 22
